@@ -1,16 +1,28 @@
-## Hi there 👋
+# Gustavo Alonso
 
-<!--
-**gustavoalonsodev/gustavoalonsodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação.
 
-Here are some ideas to get you started:
+Interessado em desenvolvimento de software, tecnologia e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou desenvolvendo meus conhecimentos em programação, bancos de dados e desenvolvimento de aplicações.
+
+---
+
+## Tecnologias e ferramentas
+
+- **Linguagens:** C e Python
+- **Banco de dados:** PostgreSQL
+- **Desenvolvimento Web:** HTML e CSS
+- **Ferramentas:** Git e GitHub
+
+## Projetos
+
+Neste espaço, reúno meus projetos acadêmicos, exercícios práticos e aplicações desenvolvidas durante minha jornada de aprendizado.
+
+## Objetivos
+
+Evoluir constantemente como desenvolvedor, aprimorar minhas habilidades técnicas e transformar conhecimentos em projetos reais.
+
+---
+
+*Em constante aprendizado e desenvolvimento.*
